@@ -19,7 +19,5 @@ section.mission {
   padding-bottom: 170px; }
 
 footer.footer-strip {
-  letter-spacing: 2px; }
-
-a.at {
-  font-weight: 100px; }
+  letter-spacing: 2px;
+  padding: 30px; }
